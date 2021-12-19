@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Server Status',
+  SiteName: 'LTY's Status',
 
   // 站点链接
   SiteUrl: '/',
