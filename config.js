@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'LTY's Status',
+  SiteName: '岚天呀的网站状态',
 
   // 站点链接
   SiteUrl: '/',
